@@ -7,7 +7,7 @@ A collection of in-depth courses covering fundamental concepts in deep learning.
 ### 🔄 RoPE (Rotary Position Embedding)
 A comprehensive course on Rotary Position Embeddings, a key technique used in modern transformer architectures for encoding positional information.
 
-📄 **[Download Course PDF](rope/rope_course.pdf)**
+📄 **[Download Course PDF](chapter_1_rope/rope_course.pdf)**
 
 ---
 
