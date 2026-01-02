@@ -1,3 +1,6 @@
+![courses logo](logo.png)
+
+
 # Deep Learning Foundations Courses
 
 A collection of in-depth courses covering fundamental concepts in deep learning.
